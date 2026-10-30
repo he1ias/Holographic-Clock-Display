@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 3.5h | 1 |
+| Week 4 | Tier 1 | 3h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-26: ## W4: Holographic Clock Display
 
-**3.5h**
+**3h**
 
 ## W4: Holographic Clock Display
 ### The prototype
@@ -68,7 +68,7 @@ The advantage of this is it makes PCB and casing design much simpler, while only
 
 ### The verdict
 
-I decided to go with the tilted glass approach, due to its simplicity (I have no time this week!).
+I decided to go with the pyramid, as it will allow me to better create 3D effects and feel more polished as a project.
 
 Next up is selecting parts, then schematic and PCB design, casing, and firmware!
 
