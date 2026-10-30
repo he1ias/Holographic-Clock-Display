@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 8h | 2 |
+| Week 4 | Tier 1 | 9h | 2 |
 
 ## Contents
 
@@ -77,7 +77,7 @@ Thanks for reading :)
 
 ### 2026-10-29: ## W4: Holographic Display
 
-**5h**
+**6h**
 
 ## W4: Holographic Display
 ### Selecting parts, designing the schematic, and assembling the casing
