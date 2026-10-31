@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/fidw1opzvqhmhvbq130ezi37)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A Holographic Clock Display for your bedside table, powered by the ESP32. Using the Pepper's Ghost visual effect, this display appears to 'float' in mid-air.  Comes with a wide range of pre-programmed clock-faces, visual effects, and relaxing animations. Works best when used in a dark room.
+> A Holographic Clock Display for your bedside table, powered by the ESP32. Using the Pepper's Ghost visual effect, this display appears to 'float' in mid-air.  Comes with a wide range of pre-programmed clock-faces, visual effects, and relaxing animations. Works best when used in a dark room. Onshape URL: https://cad.onshape.com/documents/4a07292fcf3ec5a261f2cd78/w/7a4fcc3ff990e21e98229a03/e/6ea8dd64a432b46748776d14
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
